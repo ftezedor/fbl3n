@@ -1,0 +1,14 @@
+{
+  "envelope_version": 1,
+  "payload": {
+    "format_version": 3,
+    "license_type": "corporate",
+    "license_id": "ad7d6dcc-3ac8-474f-9974-2ea00dcd8dd1",
+    "application_id": "6adc513d-80a8-4d45-8f5e-e7070dfbc95a",
+    "licensed_to": "Accenture",
+    "valid_after": "2026-10-13 11:04:15",
+    "valid_until": "2026-11-12 11:04:15"
+  },
+  "runtime_module": null,
+  "signature": "27b7df0cc1ae81ae5667919791ff1ea0a05fb33a93281115edda45e36d6bdf08fe4c531de72fc2ad5015bc20aeb29b0f9b21123ca7b41422b1c68977d42f5c0e"
+}
